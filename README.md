@@ -20,7 +20,7 @@ To run the admin dashboard locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/admin-dashboard.git
+   git clone https://github.com/aditya0929/reactBoard.git
    ```
 
 2. Navigate to the project directory:
