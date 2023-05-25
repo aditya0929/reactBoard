@@ -1,5 +1,5 @@
 
-# Admin Dashboard(reactBaord)
+# Admin Dashboard(reactBoard)
 
 This project is an admin dashboard built using JavaScript and React.js. It provides a comprehensive user interface for managing and monitoring various aspects of an application or system. The dashboard offers a range of features, including data visualization, user management, and system configuration.
  
