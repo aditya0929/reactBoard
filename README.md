@@ -26,7 +26,7 @@ To run the admin dashboard locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd admin-dashboard
+   cd reactBoard
    ```
 
 3. Install the dependencies:
