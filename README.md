@@ -45,6 +45,8 @@ To run the admin dashboard locally, follow these steps:
 
 5. Open your web browser and visit `http://localhost:3000` to access the admin dashboard.
 
+**also please check the latest versions of the dependencies installed**
+
 
 ## Contributing
 
