@@ -54,7 +54,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Acknowledgements
 
-- The dashboard UI design and components were inspired by various open-source projects and design libraries.
+- The dashboard UI design and components were inspired by various open-source projects and design libraries also you can follow the edroh channel for the same 
 ## Contact
 
 If you have any questions, suggestions, or feedback, please feel free to me at adityajha8906@gmail.com.
