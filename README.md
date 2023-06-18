@@ -13,7 +13,6 @@ additonally, take a look at the package.json for all the dependencies that i had
 - **Data Visualization:** The dashboard includes interactive charts, graphs, and tables to help visualize and analyze data.
 - **User Management:** Administrators can manage user accounts, including creating new users, updating profiles, and assigning roles and permissions.
 - **Real-Time Monitoring:** Users can view real-time statistics and metrics to monitor the performance and health of the system.
-- **Responsive Design:** The user interface is designed to be responsive and accessible across various devices and screen sizes.
 
 ## Installation
 
